@@ -15,3 +15,8 @@ Yes or No. If Yes, provide the appropriate explanation（はい or いいえ。�
 
 ## Memo（メモ）
 Memo（メモ）
+
+## Coding rule & Review point（コーディング規約 & レビュー観点）
+[Laravelコーディング規約](https://github.com/leverages-overseas/template-laravel#%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E8%A6%8F%E7%B4%84)  
+[TypeScriptコーディング規約](https://lvgs.docbase.io/posts/2847940)  
+[海外_レビュー観点_まとめ](https://docs.google.com/spreadsheets/d/1-2749t37h4eH2_zB0S1A9r4gO5S8zTS6sYsOI0GIKpo/edit#gid=0)
