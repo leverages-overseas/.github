@@ -1,3 +1,4 @@
+<!-- I want to review in Japanese. -->
 ## Purpose & Effect（目的 & 効果）
 Link Asana task（Asanaのタスクをリンクつけてください）
 
@@ -20,3 +21,4 @@ Memo（メモ）
 [海外_レビュー観点_まとめ](https://docs.google.com/spreadsheets/d/1-2749t37h4eH2_zB0S1A9r4gO5S8zTS6sYsOI0GIKpo/edit#gid=0)  
 [Laravelコーディング規約](https://github.com/leverages-overseas/template-laravel#%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E8%A6%8F%E7%B4%84)  
 [TypeScriptコーディング規約](https://lvgs.docbase.io/posts/2847940)
+<!-- I want to review in Japanese. -->
